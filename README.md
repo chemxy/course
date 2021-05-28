@@ -1,4 +1,4 @@
----
+-----
 Title:  Documenting and Understanding Software Systems
 Subtitle: SENG 480A/CSC485A/CSC578A
 Author: Neil Ernst
